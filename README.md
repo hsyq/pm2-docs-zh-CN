@@ -8,6 +8,8 @@ PM2是一个守护进程管理器，它将帮助您全天候管理和保持应�
 
 官网：https://pm2.keymetrics.io/
 
+Github：[https://github.com/Unitech/pm2]()
+
 
 
 
@@ -62,13 +64,13 @@ pmn2 logs
 
 ### 快速开始
 
-- Quick-Start - 快速开始
+- Quick-Start -  [快速开始](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/1.quickstart/1.%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.md)
 
 
 
 ### 基本使用
 
-- PROCESS MANAGEMENT - 进程管理
+- PROCESS MANAGEMENT -  [进程管理](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/2.general/1.进程管理.md)
 - RESTART STRATEGIES - 重启策略
 - LOGS - 日志
 - PERSISTENT APPLICATION - 持久化应用
