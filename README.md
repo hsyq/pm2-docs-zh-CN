@@ -71,7 +71,7 @@ pmn2 logs
 ### 基本使用
 
 - PROCESS MANAGEMENT -  [进程管理](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/2.general/1.进程管理.md)
-- RESTART STRATEGIES - 重启策略
+- RESTART STRATEGIES - [重启策略](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/2.general/2.重启策略.md)
 - LOGS - 日志
 - PERSISTENT APPLICATION - 持久化应用
 - CONFIGURATION FILE - 配置文件
