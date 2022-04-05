@@ -1,6 +1,6 @@
 # PM2 Docs 中文版
 
-<img src="https://raw.githubusercontent.com/Unitech/pm2/master/pres/pm2-v4.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/hsyq/assets/imgs/pm2-v4.png" style="zoom:50%;" />
 
 
 
