@@ -1,6 +1,6 @@
 # PM2 Docs 中文版
 
-<img src="https://cdn.jsdelivr.net/gh/hsyq/assets/imgs/2022-04/pm2-v4.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/hsyq/assets/imgs/2022-04/pm2-v4.png" style="zoom: 33%;" />
 
 
 
@@ -10,13 +10,7 @@ PM2是一个守护进程管理器，它将帮助您全天候管理和保持应�
 
 Github：[https://github.com/Unitech/pm2]()
 
-
-
-
-
-## 特性
-
-- 待补充
+国内访问：https://docs.kunwu.tech/pm2
 
 
 
@@ -44,8 +38,6 @@ pm2 start app.js
 
 
 
-
-
 ### 常用命令
 
 ```bash
@@ -57,8 +49,6 @@ pm2 delete
 pm2 monit
 pmn2 logs
 ```
-
-
 
 
 
@@ -83,17 +73,18 @@ pmn2 logs
 
 ### 高级用法
 
-- GRACEFUL START/SHUTDOWN - 优雅启动和关闭
-- EXPOSING RPC FUNCTION - 暴露RPC功能
-- EXPOSING METRICS - 公开指标 
-- PM2 JAVASCRIPT API - PM2的JavaScript API
-- MONITORING - 监控
-- NO DAEMON, MULTIPLE PM2 - 无守护，多个PM2
-- MODULE SYSTEM - 模块系统
+- GRACEFUL START/SHUTDOWN - [优雅启动和关闭](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/1.优雅启动和关闭.md)
+- EXPOSING RPC FUNCTION -  [暴露RPC功能](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/2.暴露RPC功能].md)
+- EXPOSING METRICS -  [公开指标](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/3.公开指标.md)
+- PM2 JAVASCRIPT API -  [PM2的JavaScript API](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/4.PM2的JavaScript API.md)
+- MONITORING - [监控](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/5.监控.md)
+- NO DAEMON, MULTIPLE PM2 -   [无守护，多个PM2](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/6.无守护，多个PM2.md)
+- MODULE SYSTEM -  [模块系统](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/3.advanced/7.模块系统.md)
 
 ### 集成
 
-- DOCKER INTEGRATION - Docker集成
-- USE PM2 IN CLOUD PROVIDERS - 在云提供商中使用PM2
-- PRODUCTION SETUP WITH NGINX - 使用NGINX进行生产设置
-- USING TRANSPILERS WITH PM2 - 使用转译器和PM2
+- DOCKER INTEGRATION -  [Docker集成](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/4.intergrations/1.Docker集成.md)
+- USE PM2 IN CLOUD PROVIDERS - [在云提供商中使用PM2](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/4.intergrations/2.在云提供商中使用PM2.md)
+- PRODUCTION SETUP WITH NGINX - [使用NGINX进行生产设置](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/4.intergrations/3.使用NGINX进行生产设置.md)
+- USING TRANSPILERS WITH PM2 - [使用转译器和PM2](https://github.com/hsyq/pm2-docs-zh-CN/blob/master/docs/4.intergrations/4.使用转译器和PM2.md)
+
